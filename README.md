@@ -3,7 +3,7 @@
 **Copyright © 2026 Ryan Craighead. All rights reserved.**
 
 Deep Beep is proprietary and is **not licensed to anyone for use in any way or
-for any purpose**. No permission is granted to use, play, copy, modify, publish,
+for any purpose**. No permission is granted to copy, modify, publish,
 redistribute, sublicense, or sell the original game or its materials. Any
 permission must come expressly and in writing from the copyright owner.
 
